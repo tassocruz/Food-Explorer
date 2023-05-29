@@ -9,7 +9,7 @@
     "seed": "knex seed:run"
   },
   "keywords": [],
-  "author": "Edmilson Cruz",
+  "author": "Tasso Cruz",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
