@@ -1,7 +1,5 @@
 ![asedcaerc](https://user-images.githubusercontent.com/103121417/216769074-7a2b8f44-e3d2-4549-8f24-d7cc454f5e9a.png)
 
-> Status: Em desenvolvimento ⚠️
-
 > ## Sobre 📖
 > 
 > ### O Food Explorer é o desafio  final do programa Explorer da Rocketseat! 
